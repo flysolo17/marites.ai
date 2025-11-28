@@ -14,7 +14,7 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
-- [License](#https://github.com/flysolo17/marites.ai/blob/master/LICENSE)
+- [License](#license)
 
 ---
 
@@ -60,6 +60,12 @@ The AI evaluates user performance in areas such as **grammar, fluency, vocabular
 3. **AI Conversation Engine:** Uses Gemini-2.5 to roleplay scenarios, ask predefined questions, and score responses.  
 4. **Scoring & Feedback:** Evaluates user answers and provides structured feedback on grammar, fluency, pronunciation, and vocabulary.  
 5. **UI Layer:** Compose-based screens for onboarding, scenario display, conversation, and feedback.  
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
