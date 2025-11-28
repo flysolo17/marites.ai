@@ -14,7 +14,7 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
-- [License](#license)
+- [License](#https://github.com/flysolo17/marites.ai/blob/master/LICENSE)
 
 ---
 
