@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508521160420",
+    "project_id": "calyra-ai",
+    "storage_bucket": "calyra-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508521160420:android:07351c1cd3d3ce97c056f1",
+        "android_client_info": {
+          "package_name": "com.jmballangca.maritesai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-aDIbHj3Qtbc1d3PhmqPKlxDNXqxcb_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508521160420:android:b5abfbf83f0c6b8ec056f1",
+        "android_client_info": {
+          "package_name": "com.jmballangca.rizzcraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-aDIbHj3Qtbc1d3PhmqPKlxDNXqxcb_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
